@@ -1,2 +1,5 @@
 # learning Git With Ajith
-# Testing the Conflict
+<<<<<<< HEAD
+=======
+# Conflicting the code
+>>>>>>> ajith
